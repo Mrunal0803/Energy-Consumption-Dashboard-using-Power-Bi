@@ -1,12 +1,12 @@
 # Energy-Consumption-Dashboard-using-Power-Bi
-⚡ Energy Consumption Dashboard | Power BI
+**⚡ Energy Consumption Dashboard | Power BI**
 
 
 
 
 
 
-📌 Overview
+**📌 Overview**
 
 This project presents an interactive Energy Consumption Dashboard built using Power BI to analyze Water, Electricity, and Gas usage across multiple buildings and cities.
 
@@ -14,7 +14,7 @@ The dashboard enables stakeholders to monitor consumption, track costs, identify
 
 Report on Energy Consumption Da…
 
-🧠 Problem Statement
+**🧠 Problem Statement**
 
 Energy suppliers often struggle with:
 
@@ -30,7 +30,7 @@ This dashboard solves these challenges by providing a single, unified analytical
 
 Report on Energy Consumption Da…
 
-🛠 Tech Stack
+**🛠 Tech Stack**
 
 Power BI Desktop
 
@@ -42,7 +42,7 @@ Data Modeling
 
 Exploratory Data Analysis (EDA)
 
-📂 Dataset
+**📂 Dataset**
 
 The project uses three structured tables:
 
@@ -53,9 +53,8 @@ Rates	Year-wise energy price per unit
 
 ✔️ Data was clean with no inconsistencies detected. 
 
-Report on Energy Consumption Da…
 
-🔄 Data Preparation
+**🔄 Data Preparation**
 
 Cleaned and transformed data using Power Query
 
@@ -63,7 +62,7 @@ Created a unique ID (Year + Energy Type) to link consumption and rates
 
 Optimized tables for efficient modeling
 
-🔗 Data Modeling
+**🔗 Data Modeling**
 
 Building Master → Energy Consumptions (Building)
 
@@ -73,7 +72,7 @@ This structure ensures accurate calculations and performance efficiency.
 
 Report on Energy Consumption Da…
 
-📐 Key DAX Measures
+**📐 Key DAX Measures**
 
 Total Energy Cost
 
@@ -87,8 +86,8 @@ Units by Energy Type
 
 Remaining Units by Energy Type
 
-📊 Dashboard Pages
-🔹 Overview
+**📊 Dashboard Pages**
+**🔹 Overview**
 
 Total Buildings
 
@@ -98,25 +97,25 @@ Total Units Consumed
 
 Energy Type Breakdown
 
-💧 Water Consumption
+**💧 Water Consumption**
 
 City & Building-wise usage
 
 Year-wise cost and trend
 
-⚡ Electricity Consumption
+**⚡ Electricity Consumption**
 
 Consumption by City & Building
 
 Cost trend analysis
 
-🔥 Gas Consumption
+**🔥 Gas Consumption**
 
 Gas usage comparison
 
 Year-wise consumption & cost
 
-📈 Key Insights
+**📈 Key Insights**
 
 Water contributes ~88.5% of total energy usage, yet cost remains stable
 
@@ -130,7 +129,7 @@ Strong potential for cost optimization through water conservation
 
 Report on Energy Consumption Da…
 
-🎯 Business Value
+**🎯 Business Value**
 
 Centralized energy monitoring
 
@@ -140,7 +139,7 @@ Trend and anomaly detection
 
 Supports strategic energy planning
 
-🚀 How to Run
+**🚀 How to Run**
 
 Download the .pbix file
 
@@ -150,9 +149,9 @@ Refresh data
 
 Use slicers to explore insights by Year, City, Building, Energy Type
 
-👤 Author
-
-📊 Data Analyst
+**👤 Author**
+**Mrunal Vaidya**
+**📊 Data Analyst**
 
 ⭐ If you find this useful
 
